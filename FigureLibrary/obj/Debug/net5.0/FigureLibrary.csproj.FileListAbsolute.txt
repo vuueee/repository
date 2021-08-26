@@ -1,0 +1,12 @@
+/home/kun/FigureLibrary/FigureLibrary/bin/Debug/net5.0/FigureLibrary.deps.json
+/home/kun/FigureLibrary/FigureLibrary/bin/Debug/net5.0/FigureLibrary.dll
+/home/kun/FigureLibrary/FigureLibrary/bin/Debug/net5.0/ref/FigureLibrary.dll
+/home/kun/FigureLibrary/FigureLibrary/bin/Debug/net5.0/FigureLibrary.pdb
+/home/kun/FigureLibrary/FigureLibrary/obj/Debug/net5.0/FigureLibrary.csproj.AssemblyReference.cache
+/home/kun/FigureLibrary/FigureLibrary/obj/Debug/net5.0/FigureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/kun/FigureLibrary/FigureLibrary/obj/Debug/net5.0/FigureLibrary.AssemblyInfoInputs.cache
+/home/kun/FigureLibrary/FigureLibrary/obj/Debug/net5.0/FigureLibrary.AssemblyInfo.cs
+/home/kun/FigureLibrary/FigureLibrary/obj/Debug/net5.0/FigureLibrary.csproj.CoreCompileInputs.cache
+/home/kun/FigureLibrary/FigureLibrary/obj/Debug/net5.0/FigureLibrary.dll
+/home/kun/FigureLibrary/FigureLibrary/obj/Debug/net5.0/ref/FigureLibrary.dll
+/home/kun/FigureLibrary/FigureLibrary/obj/Debug/net5.0/FigureLibrary.pdb
